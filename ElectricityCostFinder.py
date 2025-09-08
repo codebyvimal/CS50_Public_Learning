@@ -1,4 +1,3 @@
-
 def units():
     return float(input("How much units were spent this month? "))
 
